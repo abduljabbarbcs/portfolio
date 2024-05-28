@@ -7,12 +7,10 @@
 - Quext employs VueJs for frontend development, while backend development is accomplished using NestJS and Python (specifically Zato). Products developed at Quext utilize PostgreSQL database.
 
 ---
----
 ### Timberland
 [timberland.com](https://timberland.com)
 Timberland is the official online store of Timberland, a renowned lifestyle and outdoor footwear brand. The website offers a seamless and user-friendly shopping experience. I played a key role in the frontend team, contributing to the development of a newer and improved version of the Timberland website. I led efforts to enhance non-functional requirements, including Akamai redirects, SEO optimizations, and improved logging with Dynatrace and Prometheus. I streamlined the deployment process by integrating events from the Jenkins pipeline directly into Dynatrace. I worked as part of the frontend team to handle the My Account and Checkout modules. I integrated the sign-in/sign-out flow, managed profiles, and handled user purchases. Furthermore, I worked on the complete flow of the cart and checkout by integrating APIs with MuleSoft and managing all payment methods using different integrations for different locales. I integrated payment methods PayPal, Klarna, credit card, and iDEAL using Adyen and Cybersource. Additionally, I leveraged Vue, Nuxt 3, Vite, and Tailwind to create a performant and visually appealing user experience.
 
----
 ---
 ### The North Face
 [thenorthface.com](https://thenorthface.com)
